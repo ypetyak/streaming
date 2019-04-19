@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "Stream 1 Description",
+      "id": 1
+    },
+    {
+      "title": "Stream We Changed",
+      "description": "Changed for real",
+      "id": 3
+    },
+    {
+      "title": "Fake Stream 3",
+      "description": "Very fake, like super fake ",
+      "userId": "102264751607848210450",
+      "id": 4
+    }
+  ]
+}
